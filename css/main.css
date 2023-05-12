@@ -1,0 +1,80 @@
+.navbar{
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+
+}
+.barrita{
+
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.herogg{
+    background-size: cover;
+    min-height: 60vh;
+}
+
+.banerimagen .card {
+    border-radius: 0px;
+    border: 0px;
+  
+}
+body{
+    font-family:monospace ;
+}
+.card{
+    position: relative;
+}
+.card .card-img{
+    border-radius: 0px;
+    border: 0px;
+    height: auto;
+}
+.titulohero .card-title{
+    font-family: monospace;
+    padding-bottom: 2%;
+}
+.titulohero{
+    position: absolute;
+    top: 45%;
+    text-align: center;
+}
+.titulohero .btn{
+    border-radius: 3px;
+}
+.texto-ultialbums{
+    text-align: center;
+    padding-bottom: 10%;
+    padding-top: 10%;
+}
+.texto-ultialbums .contenido-ultialbums{
+    padding-top: 2%;
+    padding: 4ch;
+    
+}
+.reproducir{
+      text-align: center;
+      
+ }
+.repro{
+    padding-top: 12%;
+    padding-bottom: 12%;
+}
+.link-light{
+    text-decoration: none;
+}
+.link-light:hover{
+    color:rgb(207, 207, 207);
+}
+.aea{
+    overflow: auto;
+}
+.footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    color: black;
+  }
+.asa{
+    padding-bottom: 5%;
+}
